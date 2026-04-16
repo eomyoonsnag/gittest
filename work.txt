@@ -1,0 +1,9 @@
+total 42
+-rw-r--r-- 1 YUHAN 197121 35823 Apr 16 10:35 LICENSE
+-rw-r--r-- 1 YUHAN 197121   223 Apr 16 10:35 bd.md
+-rw-r--r-- 1 YUHAN 197121   324 Apr 16 10:35 ch.md
+-rw-r--r-- 1 YUHAN 197121   146 Apr 16 10:35 eys
+-rw-r--r-- 1 YUHAN 197121    19 Apr 16 10:35 mdc.md
+-rw-r--r-- 1 YUHAN 197121    47 Apr 16 11:07 new.txt
+-rw-r--r-- 1 YUHAN 197121   588 Apr 16 10:44 ttt.txt
+-rw-r--r-- 1 YUHAN 197121     0 Apr 16 11:12 work.txt
